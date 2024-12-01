@@ -14,6 +14,6 @@ github地址：[https://github.com/v2rayA/v2rayA/releases](https://github.com/v2
 sudo -i
 apt install git wget
 git clone https://github.com/zds-yyds/v2rayA_install.git
-cd /root/v2rayA && chmod +x buildV2rayA.sh && ./buildV2rayA.sh
+cd /root/v2rayA_install && chmod +x buildV2rayA.sh && ./buildV2rayA.sh
 ```
 
